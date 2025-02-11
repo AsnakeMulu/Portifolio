@@ -36,6 +36,6 @@ if (project) {
     });
     console.log(project);
 } else {
-    document.body.innerHTML = "<h1>Project not found</h1>";
+    document.body.innerHTML = "<h1>Protfolio not found</h1>";
 }
 });

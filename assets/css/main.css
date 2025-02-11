@@ -922,7 +922,7 @@ section,
   color: #fff;
 }
 
-.services .service-item.item-cyan:hover .icon path {
+.services .service-item.item-cyan:hover .icon rect {
   fill: #0dcaf0;
 }
 
@@ -934,7 +934,7 @@ section,
   color: #fff;
 }
 
-.services .service-item.item-orange:hover .icon path {
+.services .service-item.item-orange:hover .icon rect {
   fill: #fd7e14;
 }
 
@@ -946,7 +946,7 @@ section,
   color: #fff;
 }
 
-.services .service-item.item-teal:hover .icon path {
+.services .service-item.item-teal:hover .icon rect {
   fill: #20c997;
 }
 
@@ -958,7 +958,7 @@ section,
   color: #fff;
 }
 
-.services .service-item.item-red:hover .icon path {
+.services .service-item.item-red:hover .icon rect {
   fill: #df1529;
 }
 
@@ -970,7 +970,7 @@ section,
   color: #fff;
 }
 
-.services .service-item.item-indigo:hover .icon path {
+.services .service-item.item-indigo:hover .icon rect {
   fill: #6610f2;
 }
 
@@ -982,7 +982,7 @@ section,
   color: #fff;
 }
 
-.services .service-item.item-pink:hover .icon path {
+.services .service-item.item-pink:hover .icon rect {
   fill: #f3268c;
 }
 
